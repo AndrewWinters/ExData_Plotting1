@@ -1,4 +1,4 @@
-#This code recreates Plot 1 from the Exploratory Data Analysis Week 1 assignment. 
+#This code recreates Plot 4 from the Exploratory Data Analysis Week 1 assignment. 
 
 ####LOAD THE DATA
 #(data tables used for faster processing)
